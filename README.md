@@ -1,8 +1,7 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCW2cwHkA3O3xJxRa9GIbw1NAyyGXgOJTAMEWfwGgHjhTbezBdIVpO0LETZB7HoOMxOQKfnGhU-kXDELDXBbzsXSNRLDBZgWJe-huYNPn4K1Ox_TN_GA1xEC5U31Ufi_Tw6YLoECyu_XEPFOhi04y5sbk1hTwAqn0iWS-h_jeYRWYTrbsDA2sVwoTp/s320/untitled%20(1).png)]
 <h1 align="center">Hi 👋, I'm Alan Sojan</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif")
 
 <p align="left"> <a href="https://twitter.com/alansojan6" target="blank"><img src="https://img.shields.io/twitter/follow/alansojan6?logo=twitter&style=for-the-badge" alt="alansojan6" /></a> </p>
 
